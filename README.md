@@ -1,3 +1,15 @@
+The demo can be found at http://ruby.railstutorial.org/chapters/static-pages#top
+
+== Commands
+
+To Run unit tests: bundle exec rspec spec/requests/static_pages_spec.rb
+
+== Links to various pages:
+
+* http://localhost:3000/static_pages/about
+* http://localhost:3000/static_pages/home
+* http://localhost:3000/static_pages/help
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
